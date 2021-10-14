@@ -1,0 +1,2 @@
+class ForageAction : Action() {
+}
